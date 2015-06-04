@@ -3,4 +3,5 @@ Your first assignment is to use GitHub to submit a biography.  Answer the follow
 2. Why are you interested in Data Science?
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
-5.  Is there anything else you would like to share with us?
+5.  Do you have other experience with R or Python?
+6.  Is there anything else you would like to share with us?
