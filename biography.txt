@@ -1,8 +1,34 @@
 Your first assignment is to use GitHub to submit some autobiographical information about yourself.  Answer the following questions and then use GitHub to submit the resulting text file.
 1. What is your name?
+Dan Siercks
 2. Why are you interested in Data Science?
+For the past 6 years I have been the research facilitator for 
+UW-Milwaukee's College of Letters and Science in the campus 
+High Performance Computing group. Day to day I'm tasked with 
+facilitating the use of computational resources larger than any
+given workstation for Faculty and researchers. On any given day
+I can be helping generate large weather models, doing MRI analysis
+on hundreds of subjects or doing large monte carlo simulations.
+Around 7 years ago the first wave of faculty in non traditional
+departments (that lacked computational resources) with research
+jobs that were in the core-year range. After doing some preliminary
+big data analysis on data.gov data sets for a digital humanities 
+project we're now preparing for the next wave of faculty members
+who will expect services and support in the Data Science field.
 3. Tell us a little bit about your programming experience.  What programming courses have you taken?  Do you use programming on the job, and if so, how?
+I received my bachelors degree in Computer Science which focused on
+programming in C++. However most of my day-to-day experience has been
+helping analyze, benchmark and modify code for HPC or embaressingly 
+parallel approaches.
 4.  Tell us a little bit about your statistics experience.  What statistics courses have you taken?  Do you use statistics on the job, and if so, how?
+I've never taken a statistics class or done any statistical work.
 5.  Do you have other experience with R or Python?
+I've modified a significan amount of client R code for embaressingly
+parallel execution and written Python code to do analysis of CSV files
+and conversion of XML data to sqlite3 databases.
 6.  What do you hope to learn in this class?
+I'm hoping to get up to speed on statistical approaches in languages
+that I'm already somewhat comfortable with and gain some more real world
+programming skills.
 7.  Is there anything else you would like to share with us?
+Nothing that I can think of at the moment. 
